@@ -1,0 +1,64 @@
+﻿body{
+
+    background-image:url('download%20(1).jpg');
+    background-repeat:no-repeat;
+    background-size:100% 100%;
+    margin:0;
+    
+
+}
+.navbar{
+font-family:Lato;
+width:100%;
+overflow:auto;
+background-color:#FFFF00;
+
+}
+
+.navbar a{
+	font-family:Lato;
+	float:left;
+	padding:12px;
+	color:red;
+	text-decoration:none;
+	font-size:27px;
+	width:30%;
+	text-align:center;
+}
+.navbar a:hover{
+background-color:white;
+color:#6196FE;
+}
+h1{
+	color:white;
+	font-size:50px;
+	padding-top:5%;
+	padding-left:40%;
+	font-family:Lato;
+	
+}
+h2{
+	color:white;
+	font-family:lato;
+	font-size:30px;
+	padding-left:45%;
+	}
+h3{
+	color:white;
+	font-family:lato;
+	font-size:20px;
+	padding-left:47%;
+	}
+
+.footer{
+position:fixed;
+left:0;
+bottom:0;
+font-size:15px;
+color:white;
+text-align:center;
+width:100%;
+	
+}	
+
+	
